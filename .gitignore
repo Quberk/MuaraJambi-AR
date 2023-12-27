@@ -1,0 +1,8 @@
+*
+
+!/Assets/
+!/Assets/MuaraJambi/
+!/Assets/MuaraJambi/Scripts/
+!/Assets/MuaraJambi/Scripts/**
+
+!.gitignore
